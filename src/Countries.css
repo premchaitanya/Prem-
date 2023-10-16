@@ -1,0 +1,10 @@
+.d{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    filter: drop-shadow(10px 10px 10px);
+}
+.d img{
+    border-radius: 5px;
+}

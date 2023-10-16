@@ -1,0 +1,217 @@
+body{
+    background-image: linear-gradient( to right, white, rgb(90, 170, 173));
+}
+h1{
+    color:rgb(10, 9, 6);
+}
+.con1{
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+    min-height: 100%;
+    flex-wrap: wrap;
+}
+.con2{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\IAS-logo.jpeg);
+    background-size: cover;
+    margin: 70px;
+    filter: drop-shadow(10px 10px 10px black);
+}
+.con3{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\cce95f8f356fc294185883999ad922f0.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con4{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\ifs.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con5{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\SSIFS.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con6{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\indian-audit-and-accounts-service.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con7{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\2tCJH2Cq_400x400.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con8{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\Indian-Postal-Service-IPOS.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con9{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\6TalAY1T_400x400.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con10{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\post-indian-revenue-service_0512201628312960.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+    margin: 70px;
+}
+.con11{
+    padding:10px;
+    height: 250px;
+    width: 240px;
+    border-radius: 20px;
+    filter: drop-shadow(10px 10px 10px black);
+    display: flex;
+    align-items:flex-end;
+    justify-content: space-between;
+    background-image: url(C:\Users\premc\Downloads\RPF_logo.jpg);
+    background-size: cover;
+    margin: 70px;
+    
+}
+.lin{
+    height: 80px;
+    width:100%;
+    background-color: rgba(255, 255, 255, 0);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-radius: 2px;
+    
+}
+.lin1{
+    padding-left: 20px;
+    width: 70%;
+    display: flex;
+    align-items: flex-start;
+}
+.lin2{
+    display: flex;
+    width: 50%;
+    align-items: center;
+    justify-content: space-around;
+}
+.lin button{
+    height: 40px;
+    width: 100px;
+    background-color: rgb(54, 51, 51);
+    color:white;
+}
+.lin button:hover{
+    background-color: rgb(42, 35, 45);
+}
+.abi{
+    padding-right: 10px;
+}
+.mat{
+    display: grid;
+    grid-template-columns: 50% 50%;
+    column-gap: 20px;
+    padding: 50px 30px 10px 20px;
+}
+.left .h1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.left{
+    font-size: 30px;
+    padding: 30px;
+}
+.right{
+    height: 450px;
+    border-radius: 5px;
+    background-image: url(C:\Users\premc\Downloads\bright-upsc-statue-wnpicwyu3dm8h4g7.jpg);
+    background-size: cover;
+    filter: drop-shadow(10px 10px 10px black);
+}
+.cnt{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    width: 500px;
+    margin: 20px;
+    margin-left: 500px;
+    border: 1px solid black;
+}
